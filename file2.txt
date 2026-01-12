@@ -1,3 +1,6 @@
 Hello, this is a file
+<<<<<<< HEAD
 Navalur, Chennai
 this is the third line
+=======
+>>>>>>> branch1

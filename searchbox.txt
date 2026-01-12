@@ -1,0 +1,2 @@
+This is the search box.
+It is supposed to be moved to branch1 after being committed and pushed in branch2.
